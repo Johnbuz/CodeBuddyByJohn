@@ -1,0 +1,24 @@
+{
+  "name": "@byjohnb/my-test-package",
+  "version": "1.0.3",
+  "description": "A helpful tool for learning programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [
+    "code",
+    "programming",
+    "education"
+  ],
+  "author": "Johnny Buz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnnybuz/codebuddy/issues"
+  },
+  "homepage": "hhttps://github.com/Johnbuz/CodeBuddy/blob/main/README.md",
+  "dependencies": {
+    "@byjohnb/my-test-package": "^1.0.1"
+  }
+}
