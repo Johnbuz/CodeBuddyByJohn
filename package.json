@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/johnnybuz/codebuddy/issues"
   },
-  "homepage": "https://github.com/Johnbuz/CodeBuddy/blob/main/README.md",
+  "homepage": "https://github.com/Johnbuz/CodeBuddyByJohn/blob/master/README.md",
   "dependencies": {
     "@byjohnb/my-test-package": "^1.0.1"
   }
