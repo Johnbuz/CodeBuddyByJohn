@@ -1,6 +1,6 @@
 {
   "name": "@byjohnb/my-test-package",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A helpful tool for learning programming.",
   "main": "index.js",
   "scripts": {
