@@ -1,6 +1,6 @@
 {
   "name": "@byjohnb/my-test-package",
-  "version": "1.0.16",
+  "version": "1.0.15",
   "description": "A helpful tool for learning programming.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://githab.com/Johnbuz/CodeBuddyByJohn.git"
+    "url": "https://githab.com/Johnbuz/CodeBuddyByJohn"
   },
   "keywords": [
     "code",
