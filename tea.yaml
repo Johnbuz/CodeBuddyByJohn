@@ -1,7 +1,9 @@
-# https://tea.xyz/what-is-this-file
 ---
-version: 1.0.0
+# Tea constitution
 codeOwners:
-  - '0xE2Bb5740cd69176b40f6db030d1Bf75D006b10a0'
-  - '0x4bfC9e97ef25f595365694b3da0a4d280436d38f'
-quorum: 1
+  - adresse 1 0x7e6873BC588bb71bB6E558b203F074a777cd5CbB
+  - adresse 2 0x6b9f47Ad6FD363a084DC2da991E302393157De65
+  # Добавьте больше адресов при необходимости
+
+quorum: 5
+version: 1.0
