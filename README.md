@@ -26,25 +26,25 @@ CodeBuddyByJohn is a platform that connects developers with mentors or experienc
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository:
+# 1. Clone the repository:
 
 git clone https://github.com/Johnbuz/CodeBuddyByJohn
 
-2. Navigate to the project directory:
+# 2. Navigate to the project directory:
 
-cd CodeBuddyByJohn
+cd CodeBuddyByJohn in your terminal
 
-3. Install dependencies:
+# 3. Install dependencies:
 
 npm install
 
-4. Start the development server:
+# 4. Start the development server:
 
 npm start
 
-Contributing 
+### Contributing 
 
 We welcome contributions from the community! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
