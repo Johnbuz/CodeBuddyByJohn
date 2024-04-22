@@ -1,7 +1,8 @@
 ## CodeBuddyByJohn
-CodeBuddy is a platform that connects developers with mentors or experienced programmers who can provide guidance, code reviews, and advice on their projects. It aims to facilitate knowledge sharing and mentorship within the developer community.
 
-## Features
+CodeBuddyByJohn is a platform that connects developers with mentors or experienced programmers who can provide guidance, code reviews, and advice on their projects. It aims to facilitate knowledge sharing and mentorship within the developer community.
+
+### Features
 
 - **User Profiles:** Developers can create profiles detailing their skills, areas of expertise, availability, and preferred communication channels.
 - **Matching Algorithm:** Utilize a matching algorithm to pair developers seeking mentorship with suitable mentors based on their skills, experience, and preferences.
@@ -12,7 +13,7 @@ CodeBuddy is a platform that connects developers with mentors or experienced pro
 - **Feedback and Ratings:** Enable mentees to provide feedback and ratings for their mentorship experiences to maintain quality standards.
 - **Progress Tracking:** Track the progress of mentees over time and provide insights and recommendations for their development journey.
 
-## Technologies Used
+### Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript (React, Vue.js, or Angular)
 - **Backend:** Node.js with Express.js
@@ -21,11 +22,29 @@ CodeBuddy is a platform that connects developers with mentors or experienced pro
 - **Real-time Communication:** WebSocket technology for real-time messaging.
 - **Calendar Integration:** Utilize APIs such as Google Calendar API for scheduling.
 
-## Getting Started
+### Getting Started
 
 To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/Johnbuz/CodeBuddyByJohn
 
+git clone https://github.com/Johnbuz/CodeBuddyByJohn
+
+2. Navigate to the project directory:
+
+cd CodeBuddyByJohn
+
+3. Install dependencies:
+
+npm install
+
+4. Start the development server:
+
+npm start
+
+5. Contributing
+
+We welcome contributions from the community! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
