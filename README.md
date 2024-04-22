@@ -42,7 +42,7 @@ npm install
 
 npm start
 
-5. Contributing
+Contributing 
 
 We welcome contributions from the community! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
